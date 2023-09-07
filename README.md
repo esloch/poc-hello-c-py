@@ -1,4 +1,4 @@
-# hello-python
+# hello-c-py
 
 This is a simple Python extension module that provides a `greet` function for personalized greetings. 
 You can use this module to print customized greetings in Python.
@@ -22,12 +22,12 @@ Before using this module, ensure you have the following installed on your system
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone git@github.com:esloch/poc-hello-c.git
+   git clone git@github.com:esloch/poc-hello-c-py.git
    ```
 
 #### Navigate to the project directory
 ```shell
-   cd hello-python
+   cd hello-c-py
 ```
 
 #### Build the C extension module
